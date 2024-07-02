@@ -27,7 +27,7 @@ This script simulates a game of "Russian Roulette" by attempting to delete the r
 
 1. Clone the repository.
 2. Navigate to the script directory.
-3. Run the script with caution: `python russian_roulette.py`
+3. Run the script with caution: `python Linux_Uninstall.py`
 
 ---
 
